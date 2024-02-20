@@ -1,2 +1,2 @@
 # Projects
-Summary of some projects, while learning Data Science. 
+Summary of some beginner projects, while learning Data Science. 
